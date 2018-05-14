@@ -16,11 +16,9 @@ A mobile application that can aid the user in tracking transporting of goods.
 
 #### Application skeleton mockup
 
-Mockup1:
-![Mockup1]()
+Mockup :
+![Mockup1](https://github.com/stync/order-tracking-project/tree/master/images/mockup-1.png)
 
-Mockup2:
-![Mockup2]()
 
 ## Core Features:
 Admin :
