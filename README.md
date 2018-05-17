@@ -6,9 +6,7 @@ Final Project - Wireless Mobile Application
 
 Ubiquitous computing has become more and more a part of each and every human’s daily life. Computers are everywhere without people noticing it. The rise of smartphones has also contributed to the development of software and applications based on the mobile phone. People nowadays often use their mobile phone to assist them in daily activities, for example, finding transportations, ordering foods, paying bills, etc.
 
-The increase in private transportation usage has led to the worsening of traffic in Jakarta. The government has advised the citizens to use the public transport rather than private transportation. One of the current public transport in Jakarta is Transjakarta. However, in recent years, the government has started the development of MRT (Mass Rapid Transport) to further reduce the congestion in Jakarta’s traffic.
-
-In the last few years, we also saw the increase in demand for online transportation booking using mobile phone, for example, Go-Jek, Grab, and Uber. The existence of mobile applications helped increase the use of these services. However, for public transport in Indonesia, there is no existing solution to get more information before using the transportation/going to the station. We believe that if people are able to get more information, for example, the closest available station, ETA for train at the closest station, or which train to take if the current location is X and the destination is Y.
+The improvement in technology has also make some businesses to be more efficient in terms of cost and time. This project will also look on how to maximize the efficiency of transporting goods from one place to destination.
 
 ## Proposed Solution
 
